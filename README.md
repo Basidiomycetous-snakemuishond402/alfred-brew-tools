@@ -1,3 +1,5 @@
+![Brew Tools icon](icon.png)
+
 # Brew Tools for Alfred
 
 An Alfred workflow with two Terminal/tmux helpers for Homebrew:
